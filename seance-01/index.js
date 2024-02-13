@@ -26,7 +26,6 @@ function inscrire(){
     }
     console.log(nom)
     console.log(statut)
-
-
 }
+
 
